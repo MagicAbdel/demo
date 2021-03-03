@@ -1,0 +1,6 @@
+applicationType: messaging
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, gcp-pubsub, gradle, java, java-application, junit, logback, readme, shade, yaml]
